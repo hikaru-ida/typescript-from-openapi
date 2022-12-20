@@ -1,3 +1,3 @@
 # Summary
 
-Generate Typescript types from OpenAPI schemas.
+enerate Typescript types from OpenAPI schemas.
